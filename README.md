@@ -1,4 +1,4 @@
-# spring-boot-validation-starter guide using Gradle
+# Spring Boot Validation
 Samples for validating get request query parameters and post request body using spring boot validation
 
 - *Validating GET request query parameters*
